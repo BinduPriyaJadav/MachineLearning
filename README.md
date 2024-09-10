@@ -1,2 +1,2 @@
-# this is Machine learning folder contains related projects
+# This is Machine learning folder contains related projects
  
